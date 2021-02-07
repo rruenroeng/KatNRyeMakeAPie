@@ -1,0 +1,8 @@
+I think we can try following this persons plan to get a sensor working:
+https://tutorials-raspberrypi.com/measuring-soil-moisture-with-raspberry-pi/
+
+We need to buy:
+https://www.amazon.com/Adafruit-MCP3008-8-Channel-Interface-Raspberry/dp/B00NAY3RB2/ref=sr_1_3?dchild=1&keywords=MCP3008&qid=1612731430&sr=8-3&tag=754u-20
+This will give us a digital output that scales rather than "On" or "Off"
+We also need to buy some jumper cables (We don't have any Female-Female cables:
+amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=pd_bxgy_img_3/141-5487047-1552121?_encoding=UTF8&pd_rd_i=B01EV70C78&pd_rd_r=b3505a48-c635-47ef-9010-3b4363b7fb66&pd_rd_w=rXBfc&pd_rd_wg=F5ve6&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=8CMBXB8Z66J2YEWWH4R5&psc=1&refRID=8CMBXB8Z66J2YEWWH4R5
