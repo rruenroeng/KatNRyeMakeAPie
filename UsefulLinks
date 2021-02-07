@@ -8,6 +8,10 @@ https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-wit
 Description: 
 The first project we put together to get an LED to blink.
 
+Displaying integers on an LED screen:
+https://www.raspberrypi.org/forums/viewtopic.php?t=154414&fbclid=IwAR3tjHcWDwTNrn5hZ2sCFy1YP8wqCPsyW5J06B7DRJu6CiXdacKVHyGqmpo
+https://core-electronics.com.au/tutorials/how-to-use-a-screen-display-with-raspberry-pi.html?fbclid=IwAR3hJA0n82hP_GlF1-pEHqUHSOvVB9Y9I6SJH13t1FI3rtGUnThv5gNqKoE
+
 Soil moisture sensor setup guide:
 https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide/all
 Description: 
@@ -17,3 +21,5 @@ One implementation of connecting Raspberry Pi to LED device:
 https://gpiozero.readthedocs.io/en/stable/
 Description:
 This was one example we found of a similar project and it has some sample code that we might want to use.
+
+
