@@ -7,3 +7,13 @@ Blinking an LED:
 https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins
 Description: 
 The first project we put together to get an LED to blink.
+
+Soil moisture sensor setup guide:
+https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide/all
+Description: 
+These are the sensors we bought to measure the moisture levels in the plants' soil.
+
+One implementation of connecting Raspberry Pi to LED device:
+https://gpiozero.readthedocs.io/en/stable/
+Description:
+This was one example we found of a similar project and it has some sample code that we might want to use.
