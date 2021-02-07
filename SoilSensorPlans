@@ -2,6 +2,7 @@ I think we can try following this persons plan to get a sensor working:
 https://tutorials-raspberrypi.com/measuring-soil-moisture-with-raspberry-pi/
 
 In the meantime, I tried out this guys setup with the soil sensor and got it to return a 0 or 1 depending on whether the soil sensor is in a glass of water or not.
+https://www.instructables.com/Soil-Moisture-Sensor-Raspberry-Pi/
 
 We need to buy:
 https://www.amazon.com/Adafruit-MCP3008-8-Channel-Interface-Raspberry/dp/B00NAY3RB2/ref=sr_1_3?dchild=1&keywords=MCP3008&qid=1612731430&sr=8-3&tag=754u-20
